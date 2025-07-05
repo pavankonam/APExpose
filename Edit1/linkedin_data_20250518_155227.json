@@ -1,0 +1,96 @@
+{
+    "full_name": "KONAM PAVAN KARTHEEK",
+    "birth_year": {
+        "value": null,
+        "is_visible": false,
+        "connection_status": "unknown",
+        "possible_reasons": [
+            "Profile connection status unknown"
+        ]
+    },
+    "profile_creation_date": null,
+    "experience": [
+        {
+            "title": "Graduate Teaching Assistant",
+            "company": "Northwestern University",
+            "start_date": {
+                "raw": {},
+                "formatted": "Present"
+            },
+            "end_date": {
+                "raw": {},
+                "formatted": "Present"
+            },
+            "description": "",
+            "location": "Evanston, Illinois, United States"
+        },
+        {
+            "title": "Programming Analyst",
+            "company": "Cognizant",
+            "start_date": {
+                "raw": {},
+                "formatted": "Present"
+            },
+            "end_date": {
+                "raw": {},
+                "formatted": "Present"
+            },
+            "description": "I am emphasized to work in the field of AI-ML under esteemed company.",
+            "location": "Hyderabad, Telangana, India"
+        },
+        {
+            "title": "Project Intern",
+            "company": "The Sparks Foundation",
+            "start_date": {
+                "raw": {},
+                "formatted": "Present"
+            },
+            "end_date": {
+                "raw": {},
+                "formatted": "Present"
+            },
+            "description": "",
+            "location": "Hyderabad, Telangana, India"
+        },
+        {
+            "title": "Intern",
+            "company": "Cognizant",
+            "start_date": {
+                "raw": {},
+                "formatted": "Present"
+            },
+            "end_date": {
+                "raw": {},
+                "formatted": "Present"
+            },
+            "description": "- Developed computer vision models for object detection and text recognition using AWS, achieving 94% accuracy.\n- Assisted in implementing ML models for image analysis and medical diagnostics.\n- Got hands on experience on SQL, Azure Cloud Services, Google Cloud Services, Amazon Web Services(AWS)",
+            "location": "Hyderabad, Telangana, India"
+        },
+        {
+            "title": "Chief Development Officer (CDO) and Project Designer",
+            "company": "Saavishkaara",
+            "start_date": {
+                "raw": {},
+                "formatted": "Present"
+            },
+            "end_date": {
+                "raw": {},
+                "formatted": "Present"
+            },
+            "description": "",
+            "location": "Hyderabad, Telangana, India"
+        }
+    ],
+    "profile_url": "https://www.linkedin.com/in/pavankonam/",
+    "connection_info": {
+        "degree": "unknown",
+        "mutual_connections_count": 0,
+        "mutual_connections": [],
+        "is_connected": false,
+        "network_info": {
+            "first_degree": 0,
+            "second_degree": 0,
+            "third_degree": 0
+        }
+    }
+}

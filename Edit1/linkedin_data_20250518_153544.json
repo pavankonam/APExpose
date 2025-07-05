@@ -1,0 +1,41 @@
+{
+    "full_name": "KONAM PAVAN KARTHEEK",
+    "birth_year": null,
+    "experience": [
+        {
+            "title": "Graduate Teaching Assistant",
+            "company": "Northwestern University",
+            "start_date": {},
+            "end_date": {},
+            "description": ""
+        },
+        {
+            "title": "Programming Analyst",
+            "company": "Cognizant",
+            "start_date": {},
+            "end_date": {},
+            "description": "I am emphasized to work in the field of AI-ML under esteemed company."
+        },
+        {
+            "title": "Project Intern",
+            "company": "The Sparks Foundation",
+            "start_date": {},
+            "end_date": {},
+            "description": ""
+        },
+        {
+            "title": "Intern",
+            "company": "Cognizant",
+            "start_date": {},
+            "end_date": {},
+            "description": "- Developed computer vision models for object detection and text recognition using AWS, achieving 94% accuracy.\n- Assisted in implementing ML models for image analysis and medical diagnostics.\n- Got hands on experience on SQL, Azure Cloud Services, Google Cloud Services, Amazon Web Services(AWS)"
+        },
+        {
+            "title": "Chief Development Officer (CDO) and Project Designer",
+            "company": "Saavishkaara",
+            "start_date": {},
+            "end_date": {},
+            "description": ""
+        }
+    ]
+}

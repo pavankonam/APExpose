@@ -1,0 +1,31 @@
+{
+    "full_name": "Ashlesha Ahirwadi",
+    "birth_date": {
+        "day": 21,
+        "month": 11,
+        "year": 2002
+    },
+    "experience": [
+        {
+            "title": "AI/ML Intern",
+            "company": "LightRay",
+            "start_date": {},
+            "end_date": {},
+            "description": ""
+        },
+        {
+            "title": "Research Intern",
+            "company": "Symbiosis Centre for Medical Image Analysis (SCMIA)",
+            "start_date": {},
+            "end_date": {},
+            "description": "\u2022 Developed an innovative Statistical Shape Model to analyze and segment MRI scans of the femur bone\ndemonstrating problem-solving skills and attention to detail to address complex medical imaging challenges.\n\u2022 Acquired foundational knowledge through a MOOC on Shape Modelling from the University of Basel showing adaptability and a commitment to continuous learning.\n\u2022 Built expertise in Scala and Image Processing and applied the Scalismo library for constructing the Statistical Shape Model.\n\u2022 Gained deep insights into the cross-functional approach of medical imaging and data science."
+        },
+        {
+            "title": "Research Intern",
+            "company": "Armament Research and Development Establishment, DRDO",
+            "start_date": {},
+            "end_date": {},
+            "description": "Researched spam email filtering using Machine Learning algorithms, gaining hands-on experience with data preprocessing and model training.\n\u2022 Simulated various filtering algorithms using Orange, a data mining software, to improve the accuracy of spam detection to 99.4%, showcasing strong detail-oriented problem-solving skills.\n\u2022 Compiled a comprehensive project report detailing the methodology and results of the spam filtering process, enhancing technical writing abilities while communicating complex information.\n\u2022 Compiled reports ensuring clarity and compliance with technical documentation standards."
+        }
+    ]
+}

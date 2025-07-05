@@ -1,0 +1,27 @@
+{
+    "full_name": "Ruchi Bommaraju",
+    "birth_year": null,
+    "experience": [
+        {
+            "title": "Generative AI Intern",
+            "company": "Tata Consultancy Services",
+            "start_date": {},
+            "end_date": {},
+            "description": "– Spearheaded the development of the unstructured data pipeline for TCS Data Wrangler to streamline data processing.\n– Built a data wrangling automation pipeline to streamline complex data workflows, enhancing efficiency in data processing\nand analysis.\n– Integrated advanced natural language processing (NLP) techniques with AutoML for adaptive model selection and tuning.\n– Engineered data chunking, embedding generation, and similarity search using Chroma, Milvus, and FAISS\n– Optimized the handling of high-dimensional data and accelerated retrieval tasks by 40%."
+        },
+        {
+            "title": "Chief Operating Officer",
+            "company": "Plantflo",
+            "start_date": {},
+            "end_date": {},
+            "description": ""
+        },
+        {
+            "title": "Intern",
+            "company": "CodeCrux Web Technologies(P) Ltd.",
+            "start_date": {},
+            "end_date": {},
+            "description": ""
+        }
+    ]
+}
